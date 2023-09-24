@@ -10,7 +10,8 @@
 
 body {
   background-color: #e4d6ba;
-  color: #29221E;
+  /* color: #29221E; */
+  color: #473328;
   font-family: 'EB Garamond', serif;
 }
 
@@ -51,4 +52,9 @@ a, a:visited {
 
 .post-list-heading {
   display: none;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #d8cbb1;
 }
