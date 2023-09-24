@@ -9,11 +9,7 @@ The world does not want to kill you. She made monsters to scare you from her won
 
 I’ve been thinking lately about what monsters want. About what a monster is willing to do to get what it wants, and how high killing you is on that list, if you get in their way.
 
-I often put killing pretty low on the list, sometimes without even meaning to. I used to think this was a mistake, and tried to steer my instincts in away from that. I didn’t want to completely blur the line between a monster and another character. They needed to have a certain purpose. 
-
-But I’ve learned a monster doesn’t need to kill you to remain a monster. It just needs to threaten something you care about.
-
-Even if a monster doesn’t want to kill you (yet), it can still be a threat to…
+I often put killing pretty low on the list, sometimes without even meaning to. I used to think this was a mistake, but I've since embraced these kinds of monsters. A monster doesn’t need to kill you to remain a monster. It just needs to threaten something you care about, such as...
 
 - Your stuff
 - Your time
@@ -124,6 +120,6 @@ You’ll find the results in the table below threatens one of these three things
 
 Answering “how” the monster does these things can help the threat click into place.
 
-This table is most definitely skewed monsters that are feyish, intelligent, and tricksy. It’s tricky to telegraph these threats clearly if the monster can’t speak. 
+This table is most definitely skewed monsters that are feyish, intelligent, and tricksy because I like these monsters best. It’s easier to telegraph these threats if the monster can speak. 
 
-For more naturalistic monsters, thinking about what bits and bobs might allow them to accomplish these threats can be very fun, if a bit of a stretch at times.
+For more naturalistic monsters, it can take a bit of creativity to telegraph a non-lethal threat. I like thinking about what bits and bobs they have on their body that might be able to telegraph the threat. For example, "The creature in the middle of the path isn't very large, but there's a whiff of something the just smells *terrible*, and they have a flat, fluffy tail they look willing to lift at a moment's notice." (A skunk is a great non-lethal monster that still presents a threat. Nobody's going to like you if you smell that bad, and it might be easier for more dangerous monsters to catch a whiff of you.)
