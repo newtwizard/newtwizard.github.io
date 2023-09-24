@@ -11,6 +11,7 @@
 body {
   background-color: #e4d6ba;
   color: #29221E;
+  font-family: 'EB Garamond', serif;
 }
 
 /* Backup colors 
@@ -35,18 +36,10 @@ body {
   color: #29221E;
 */
 
-.site-header,
-.post-list-heading,
-.post-list,
-.post-header {
-  font-family: 'EB Garamond', serif;
-}
-
 .post-title {
-  font-family: Gill Sans;
+  font-family: Gill Sans, sans-serif;
 }
 
 .post-content {
-  font-family: 'EB Garamond', serif;
   font-size: 1.1rem;
 }
