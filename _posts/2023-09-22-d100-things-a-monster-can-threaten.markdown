@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "d100 things a monster can threaten that aren’t your life"
-date:   2023-09-23 18:00:00 -0700
+date:   2023-09-22 16:00:00 -0700
 tag: random table
 ---
 
