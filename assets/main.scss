@@ -3,13 +3,18 @@
 
 @import "{{ site.theme }}";
 
+@fontface {
+  font-family: Garamond;
+  src: url("../assets/fonts/Garamond.tff");
+}
+
 body {
-  background-color: #DDD8CF;
+  background-color: #e4d6ba;
   color: #29221E;
-  font-size: 1.1rem;
 }
 
 /* Backup colors 
+  background-color: #DDD8CF;
   background-color: #436D91;
   background-color: #DDD8CF;
   background-color: #264F73;
@@ -36,4 +41,9 @@ body {
 .post-header
  {
   font-family: Georgia;
+}
+
+.post-content {
+  font-family: Garamond;
+  font-size: 1.1rem;
 }
