@@ -36,10 +36,19 @@ body {
   color: #29221E;
 */
 
-.post-title {
+.post-title,
+.post-link {
   font-family: Gill Sans, sans-serif;
 }
 
 .post-content {
   font-size: 1.1rem;
+}
+
+a, a:visited {
+  color: #2f477a;
+}
+
+.post-list-heading {
+  display: none;
 }
