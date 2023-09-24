@@ -57,4 +57,17 @@ a, a:visited {
 .site-header {
   border-top: none;
   border-bottom: 1px solid #d8cbb1;
+  text-align: center;
+}
+
+.site-title {
+  float: none;
+}
+
+.site-footer {
+  border-top: 1px solid #d8cbb1;
+}
+
+.footer-heading {
+  display: none;
 }
