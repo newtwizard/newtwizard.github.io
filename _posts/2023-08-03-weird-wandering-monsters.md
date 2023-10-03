@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "weird wandering merchants"
+title:  "a few weird wandering merchants"
 date:   2023-10-03 11:00:00 -0700
 tag: shopping
 ---
