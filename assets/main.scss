@@ -37,6 +37,7 @@ body {
   color: #29221E;
 */
 
+h3,
 .post-title,
 .post-link {
   font-family: Gill Sans, sans-serif;
@@ -52,6 +53,10 @@ a, a:visited {
 
 .post-list-heading {
   display: none;
+}
+
+.post-list em {
+  font-style: normal;
 }
 
 .site-header {
