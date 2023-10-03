@@ -46,7 +46,7 @@ You lose something along the way…
 5. A memory. 
 6. An enemy.
 
-### the littlest barnacle who could
+### the little barnacle that could
 
 They pull themselves along, inch by inch, by inch. This how they escaped the briny clutches of the sea. Helpless, hopeful. 
 
