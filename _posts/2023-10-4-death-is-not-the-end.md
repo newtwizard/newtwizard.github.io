@@ -15,6 +15,6 @@ When all the fires in the world go out, then you can die.
 
 ---
 
-*I wanted to make a dark souls-style procedure that was more fictional than mechanical. I picture this working best for a game with one player and one gamemaster (i.e. a duet? game), since these are what I most often play. They also best represent the "solo" feel of a dark souls game, I think.*
+*I wanted to make a dark souls-style procedure that was more fictional than mechanical (mostly for myself). I picture this working best for a game with one player and one gamemaster (i.e. a duet? game), since these are what I most often play. They also best represent the "solo" feel of a dark souls game, I think.*
 
 *If you wanted to use it for a group setting, maybe their souls cannot return while torchlight burns, or something like that. Their spirits can still help out somehow, but only in ways that are intangible and nearly invisible. Just make sure nobody is left out.*
