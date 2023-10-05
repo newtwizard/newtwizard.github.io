@@ -3,7 +3,7 @@ layout: post
 title:  "death is not the end"
 date:   2023-10-04 20:00:00 -0700
 ---
-Someone broke death. It doesn’t work for you anymore.
+Someone broke death. It doesn’t work for you anymore. Some take pity on you. Some revile you. You are a symptom of a world gone wrong, and there are more like you every day.
 
 When you die, give up a piece of yourself. If it hurts enough, you awaken nearly naked by the last bonfire or hearth you slept beside. One thing finds its way back with you – all the rest is still where you left it. 
 
