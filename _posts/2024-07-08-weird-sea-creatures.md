@@ -29,8 +29,8 @@ One day, they will grow long enough to grasp those stars.
 
 ### falselight
 
-In the distance, the comforting rhythmic flicker – guide and sentinel, drawing you closer. Only those who hesitate will notice the hiccuping rhythm.
+In the distance, a comforting rhythmic flicker – guide and sentinel, drawing you closer. Only those who hesitate notice the hiccuping rhythm.
 
-By the time you see its true form, it is too late – your ship is trapped upon the shoal. 2d6 tentacles support a stalk that ends in an orb, cartilage-veined and pulsating with light: a lighthouse from a nightmare.
+By the time you see its true form, it is too late – you will be stuck upon the shoal. 2d6 tentacles support a stalk ending in an orb, cartilage-veined and pulsating with light: a lighthouse from a nightmare.
 
-A burn-bright pulse that blinds. It pulls itself towards you, stalk swinging. Tentacles like a tongue swish inside your ship, finding all it can pull and shove into its beak. It will not let go until your ship is clean 
+A burn-bright pulse that blinds. Then it pulls itself towards you, stalk swinging. Tentacles like a tongue swish inside your ship, pulling all it can shove into its beak. It will not let go until your ship is clean as a boiled crab after dinner. It can't leave any survivors – a found-out falselight is a dead one.
