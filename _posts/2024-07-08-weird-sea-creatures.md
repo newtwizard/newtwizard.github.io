@@ -8,11 +8,13 @@ tag: weird sea
 ### prodigal afterbirth
 A firstborn child given freely to the sea is said to bring its father home.
 
-When its brothers and sisters have children of their own, the child is born a second time, tangled limbs hauling its pitiful form onto the beach, all milk-pale flesh, puffed and finned. A carpet of teeth scratch sand and stone. A mangled cry, carried on seawind.
+When its brothers and sisters have children of their own, the child is born a second time, tangled limbs hauling its pitiful form onto the beach, all milk-pale flesh, puffed and finned. A carpet of teeth scratch sand and stone. A cry carried on the wind, choked forth from waterlogged lungs.
 
-Any who hear the cry see it only through its mothers eyes. You want to care for it, carry it home at your breast. It will eat any who draw close enough to reach. Can you blame it? It cried for generations, and in all that time you never answered.
+Any who hear its cry see the child as if it were their own: abandoned and alone. It will feed on any who draw close enough to touch. 
 
-When it has fed on its brothers and sisters and their children, it ceases its crying and wriggles back into the sea. It has another mother now.
+Can you blame it? It cried for generations, and in all that time you never answered.
+
+Once it has fed on its brothers and sisters and their children, it ceases crying and wriggles back into the sea. It has another mother now, and she will birth it a third time. 
 
 ### starstruck giant
 *6+3d6 feet tall - arms same length.*
