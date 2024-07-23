@@ -14,7 +14,7 @@ Any who hear its cry see the child as if it were their own: abandoned and alone.
 
 Can you blame it? It cried for generations, and in all that time you never answered.
 
-Once it has fed on its brothers and sisters and their children, it ceases crying and wriggles back into the sea. It has another mother now, and she will birth it a third time. 
+Once it has fed on its brothers and sisters and their children, it ceases crying and wriggles back into the sea. It has another mother now.
 
 ### starstruck giant
 *6+3d6 feet tall - arms same length.*
@@ -35,4 +35,4 @@ In the distance, a comforting rhythmic flicker – guide and sentinel, drawing y
 
 By the time you see its true form, it is too late – you will be stuck upon the shoal. 2d6 tentacles support a stalk ending in an orb, cartilage-veined and pulsating with light: a lighthouse from a nightmare.
 
-A burn-bright pulse that blinds. Then it pulls itself towards you, stalk swinging. Tentacles like a tongue swish inside your ship, pulling all it can shove into its beak. It will not let go until your ship is clean as a boiled crab after dinner. It can't leave any survivors – a found-out falselight is a dead one.
+A burn-bright pulse that blinds. Then it pulls itself towards you, stalk swinging. Tentacles like a tongue swish inside your ship, pulling all it can shove into its beak. It will not let go until your ship is clean as a boiled crab after dinner. It can't leave any survivors – a found-out falselight starves.
