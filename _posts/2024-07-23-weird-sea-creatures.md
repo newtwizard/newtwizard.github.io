@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "creatures on the weird sea"
-date:   2024-07-08 16:00:00 -0700
+title:  "some monsters by the sea"
+date:   2024-07-23 16:00:00 -0700
 tag: weird sea
 ---
 
