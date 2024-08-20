@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "creatures by the sea: "
+title:  "creatures by the sea: saltqueen, radio angler, & barnacled"
 date:   2024-08-20 09:00:00 -0700
 tag: weird sea, creatures by the sea
 ---
