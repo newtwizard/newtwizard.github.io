@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "monsters by the sea i: prodigal afterbirth, giant, and falselight"
+title:  "creatures by the sea i: prodigal afterbirth, giant, and falselight"
 date:   2024-07-23 09:00:00 -0700
 tag: weird sea, monsters by the sea
 ---
