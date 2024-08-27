@@ -6,7 +6,6 @@ tag: weird sea, creatures by the sea
 ---
 
 ### saltqueen
-
 Grandmothers tell stories of a land where eels were once woven in the hair of girls deemed too beautiful. Then, they were buried in salt. So none would love them, even in death, any who looked upon them were cursed to join them in their grave.
 
 The sea swallowed those lands long ago, and scattered the salt graves. Now the girls walk free. 
