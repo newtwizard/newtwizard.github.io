@@ -8,7 +8,7 @@ tag: weird sea, creatures by the sea
 ### lover-o-ships
 The ink in the pen you use comes from the days we hunted this great silver squid to near extinction. In the spring, the males would rise to the surface of the water and paint patterns to attract a mate. You could spot them from a mile away.
 
-The males are all gone, now. To the surviving females, a ship looks no different than a lover. Longing fills those lonely hearts of theirs, and they rise to embrace it as they did their lovers in long-gone days, lashing it with a dozen tentacles. Even if their “lover” wounds them, they are desperate enough to cling still tightly. 
+The males are all gone, now. To the surviving females, a ship looks no different than a lover. Longing fills those lonely hearts of theirs, and they rise to embrace it as they did their lovers in long-gone days, lashing it with a dozen tentacles. They are desperate enough to still cling tightly, even if their "lover" wounds them.
 
 ### debtor
 The Debtors know the truth of things: one day, all things must drown. They have tried to face this truth themselves and failed. So they tame their cowardice with chains.
